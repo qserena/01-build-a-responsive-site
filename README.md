@@ -1,20 +1,14 @@
-# Add To Cart app
+# NFT site - A responsive site
 
 ## Description
-A great help when shopping at the grocery store. Plan your shopping at home by adding items to the list. Then to remove from the list, click each item when you put it in the shopping cart.
-
-This is a web application but can easily be configured to act as a mobile app on your Android or iPhone by "Add to Home Screen" (see screenshot below). 
-
-By the way, I had to do this demo version of the app which uses another database than our family use :-)
+An exercise in responsive design. Media queries are used to display the site in different manner depending on the screen size. 
 
 <br/>
-<img src="responsive-site.png" alt="Screenshot." width="400px"/>
+<img src="responsive-site.png" alt="Screenshot." width="500px"/>
 
 ## Technologies
 - HTML
 - CSS
-- JavaScript
-- Firebase database
 
 ## Live link
 The app is deployed here:
