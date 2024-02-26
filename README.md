@@ -1,21 +1,23 @@
-# coad546269a63d702245c3aed
+# Add To Cart app
 
-Quick start:
+## Description
+A great help when shopping at the grocery store. Plan your shopping at home by adding items to the list. Then to remove from the list, click each item when you put it in the shopping cart.
 
-```
-$ npm install
-$ npm start
-````
+This is a web application but can easily be configured to act as a mobile app on your Android or iPhone by "Add to Home Screen" (see screenshot below). 
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+By the way, I had to do this demo version of the app which uses another database than our family use :-)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+<br/>
+<img src="responsive-site.png" alt="Screenshot." width="400px"/>
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- Firebase database
 
-Happy Coding!
+## Live link
+The app is deployed here:
+[https://mob-app-demo.netlify.app](https://mob-app-demo.netlify.app)
+
+Please feel free to visit and click around!
