@@ -12,6 +12,6 @@ An exercise in responsive design. Media queries are used to display the site in 
 
 ## Live link
 The app is deployed here:
-[https://mob-app-demo.netlify.app](https://mob-app-demo.netlify.app)
+[https://toms-nft.netlify.app](https://toms-nft.netlify.app)
 
 Please feel free to visit and click around!
