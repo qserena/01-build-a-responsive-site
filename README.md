@@ -1,7 +1,7 @@
 # NFT site - A responsive site
 
 ## Description
-An exercise in responsive design. Media queries are used to display the site in different manner depending on the screen size. 
+An exercise in responsive design. Media queries are used to display the site in different ways depending on the screen size. 
 
 <br/>
 <img src="responsive-site.png" alt="Screenshot." width="500px"/>
