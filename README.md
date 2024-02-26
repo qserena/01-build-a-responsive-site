@@ -14,4 +14,4 @@ An exercise in responsive design. Media queries are used to display the site in 
 The app is deployed here:
 [https://toms-nft.netlify.app](https://toms-nft.netlify.app)
 
-Please feel free to visit and click around!
+Please feel free to visit and check out the responsiveness by changing the browser size!
